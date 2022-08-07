@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/air-landingpage/static/css/main.22cc392c.css",
+    "main.js": "/air-landingpage/static/js/main.c389f343.js",
+    "index.html": "/air-landingpage/index.html",
+    "main.22cc392c.css.map": "/air-landingpage/static/css/main.22cc392c.css.map",
+    "main.c389f343.js.map": "/air-landingpage/static/js/main.c389f343.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.22cc392c.css",
+    "static/js/main.c389f343.js"
+  ]
+}
